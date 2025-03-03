@@ -10,7 +10,7 @@
 <details><summary>Get ready to see the great logo: </summary><p>
 <div align='center'>
 <figure> <img src="https://i.postimg.cc/NFbwf57S/logo-def.png" alt="logo" width="400" height="auto"/></br>
-<figcaption><b> "we are programmers, not designers" </b></figcaption></figure>
+<figcaption><b> "we're programmers, not designers" </b></figcaption></figure>
 </div>
 </p></details><br>
 
@@ -55,9 +55,9 @@ python main.py
 The file contains adjustable parameters such as:
 - Number of particles
 - Inertia weight
-- Cognitive and social coefficients
+- Cognitive and social coefficients (listed as c1 and c2)
 - Number of iterations
-- Objective function
+- Objective function (taken from some presets)
 
 Modify these parameters to suit your optimization problem.
 
