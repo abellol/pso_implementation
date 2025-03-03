@@ -20,8 +20,8 @@ To install and run this project, follow these steps:
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-folder>
+   git clone https://github.com/abellol/pso_implementation.git
+   cd pso_implementation/
    ```
 
 2. **Create and activate a virtual environment (optional but recommended)**  
